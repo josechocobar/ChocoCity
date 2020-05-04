@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "15028327853",
+    "firebase_url": "https://chococity-4343e.firebaseio.com",
+    "project_id": "chococity-4343e",
+    "storage_bucket": "chococity-4343e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15028327853:android:ed23e4e67f9a5ef8",
+        "android_client_info": {
+          "package_name": "com.cuty.chococity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15028327853-jd58dt38ie4i2gjm9qjgpa7h33gs804p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cuty.chococity",
+            "certificate_hash": "ea8cf3f2fc80d1e6937723135efb19cfed4f2376"
+          }
+        },
+        {
+          "client_id": "15028327853-6dj7cpkdejg3nltk7ctfv4lilq1mup9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8ikiaNYcvD2a7igHsSBYvVgBMTC4imw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15028327853-6dj7cpkdejg3nltk7ctfv4lilq1mup9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
